@@ -1,0 +1,97 @@
+.frame {
+  background-color: moccasin;
+  border: solid 1px black;
+  border-radius: 15%;
+  width: 50%;
+  height: 500px;
+  margin: auto;
+}
+tr td {
+  border: solid 1px black;
+  width: 125px;
+  height: 75px;
+}
+td {
+  background-color: white;
+}
+
+table {
+  margin: auto;
+  width: 90%;
+}
+
+.student-list {
+  width: 90%;
+  height: 100px;
+  margin: auto;
+  margin-top: 50px;
+
+  padding: 5px;
+}
+
+.pill {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+#reset {
+  background-color: black;
+  color: white;
+}
+
+.Alex {
+  background-color: rgb(143, 143, 5);
+  color: white;
+}
+.Anthony {
+  background-color: blue;
+  color: white;
+}
+.Bowen {
+  background-color: blueviolet;
+  color: white;
+}
+.Dustin {
+  background-color: rgb(160, 52, 13);
+  color: white;
+}
+.Ethan {
+  background-color: darkcyan;
+  color: white;
+}
+.Katie {
+  background-color: darkorange;
+  color: white;
+}
+.Shawn {
+  background-color: rgb(196, 6, 6);
+  color: white;
+}
+.Steve {
+  background-color: darkslategrey;
+  color: white;
+}
+.Taylor {
+  background-color: forestgreen;
+  color: white;
+}
+
+.Trevor {
+  background-color: hotpink;
+  color: white;
+}
+.Rison {
+  background-color: rgb(161, 125, 35);
+  color: white;
+}
+.Solomon {
+  background-color: indigo;
+  color: white;
+}
